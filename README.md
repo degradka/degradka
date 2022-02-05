@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @degradka
-- 👀 I’m interested in C/C++
 - 📫 E-Mail degradka@gmail.com
