@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @degradka
-- 📫 E-Mail degradka@gmail.com
+- :wave: Hi, I’m @degradka
+- :mailbox: E-Mail degradka@gmail.com
+- :globe_with_meridians: Website https://degradka.github.io
