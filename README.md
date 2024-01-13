@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">🌟&emsp;degradka&emsp;🌟</h1>
+    <h1 align="center">✨&emsp;degradka&emsp;✨</h1>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=dd5577&center=true&random=false&width=360&lines=Ayyyyyyyyyyyyyyyy;Greetings%2C+my+fellow+mad+lads!;Have+a+look+around!">
